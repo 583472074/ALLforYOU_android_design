@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="18sp"
+        android:gravity="center"
+        android:id="@+id/textView"
+        android:textColor="#FF63aade"
+        android:text="~~~下次记得再回来~~~"
+        android:textSize="22dip" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:layout_marginBottom="15dip"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/exit"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@drawable/button_select"
+                android:textSize="20dip"
+                android:text="    退出    " />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:background="#ddaaaaaa"
+            android:paddingBottom="5dip"
+            android:layout_gravity="center"
+            android:layout_height="13dp"
+            android:paddingTop="5dip" />
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/cancle"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_select"
+                android:textSize="20dip"
+                 android:gravity="center"
+                android:text="    取消    " />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

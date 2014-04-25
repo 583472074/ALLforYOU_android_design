@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="header_height">250dp</dimen>
+    <dimen name="header_logo_size">100dp</dimen>
+
+    <drawable name="actionbar_back">#ef202020</drawable>
+    <drawable name="tab_selected">#ffe16b99</drawable>
+    <drawable name="tab_unselected">#33ffffff</drawable>
+    <drawable name="tab_selected_pressed">#ffe23176</drawable>
+    <drawable name="tab_unselected_pressed">#ffe16b99</drawable>
+    <drawable name="tab_selected_focused">#ff000000</drawable>
+    <drawable name="tab_unselected_focused">#22ffffff</drawable>
+    <drawable name="button_unpressed">#00000000</drawable>
+    <drawable name="button_pressed">#FF67ace2</drawable>
+    <drawable name="linear_unpressed">#FF5a727e</drawable>
+    <drawable name="linear_pressed">#885a727e</drawable>
+    <drawable name="relayout_unpressed">#FF63aade</drawable>
+    <drawable name="relayout_pressed">#aa63aade</drawable>
+    <drawable name="view_unpressed">#00000000</drawable>
+    <drawable name="view_pressed">#22000000</drawable>
+    <drawable name="listview_pressed">#FF50597b</drawable>
+
+    <dimen name="biz_plugin_weather_climate_textsize">20.0sp</dimen>
+    <dimen name="biz_plugin_weather_temperature_textsize">30.0sp</dimen>
+
+</resources>
