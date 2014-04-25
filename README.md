@@ -15,7 +15,7 @@ ALLforYOU _android_ _UI_ _design_
 
 
 >  效果图
-<img src="http://v2.freep.cn/3tb_140425223512wrn2512293.png"/>
-<img src="http://v2.freep.cn/3tb_140425223512wrn2512293.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/1.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/2.png"/>
 
 <br/>
