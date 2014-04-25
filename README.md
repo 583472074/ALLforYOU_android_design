@@ -1,13 +1,27 @@
-ALLforYOU_android_design
+ALLforYOU _android_ _UI_ _design_
 ========================
+4/25/2014 10:27:07 PM 
 
-<h5>为一个曾经喜欢的女孩写的APK，不太完整，但是界面设计还不错，分享一下</h5>
-<h5>Write this APK for a good girl  I used to like ,it it not too well, but the UI design is good,  share to u.</h5>
-<br />
-<hr/>
+> 引言
+ 
+	为一个曾经喜欢的女孩写的APK，不太完整，但是界面设计还不错，分享一下。
 
+
+##
 风格很多地方借鉴了  A Dribbble client for android Made by NovelanceF.
-<br />
-<hr/>
 
-效果图：
+ 但是在它的基础上面，加上了瀑布流，更多人性化地动画，更友好的UI。
+##
+
+
+>  效果图
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/1.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/2.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/3.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/4.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/5.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/6.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/7.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/8.png"/>
+<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/9.png"/>
+<br/>
