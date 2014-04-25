@@ -15,13 +15,7 @@ ALLforYOU _android_ _UI_ _design_
 
 
 >  效果图
-<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/1.png"/>
-<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/2.png"/>
-<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/3.png"/>
-<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/4.png"/>
-<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/5.png"/>
-<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/6.png"/>
-<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/7.png"/>
-<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/8.png"/>
-<img src="https://github.com/TaurusXi/ALLforYOU_android_design/blob/master/AllForYou/art/9.png"/>
+<img src="http://v2.freep.cn/3tb_140425223512wrn2512293.png"/>
+<img src="http://v2.freep.cn/3tb_140425223512wrn2512293.png"/>
+
 <br/>
