@@ -22,8 +22,8 @@ ALLforYOU _android_ _UI_ _design_
 <img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/2.png"/>
 <img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/3.png"/>
 <img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/4.png"/><img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/5.png"/>
-<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/6.png"/><img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/7.png"/>
-<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/8.png"/>
+<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/6.png"/><img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/7.jpg"/>
+<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/8.jpg"/>
 <img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/9.png"/>
 <br/>
 
