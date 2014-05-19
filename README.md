@@ -11,10 +11,8 @@ ALLforYOU _android_ _UI_ _design_
 风格很多地方借鉴了  A Dribbble client for android Made by NovelanceF.
 
  但是在它的基础上面，加上了瀑布流，更多人性化地动画，更友好的UI。
-##
-
-##
-登入账户：xiuxian1988，密码：1988
+ 
+ 登入账户：xiuxian1988，密码：1988
 ##
 
 >  效果图
